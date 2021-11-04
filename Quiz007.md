@@ -6,6 +6,7 @@ def letters(l):
     list = []
     result = 0
     n = len(l)
+    #loccation notation[a] would add until i is n so first it is 0
     a = 0
     for i in range(0,n):
         result = f"{i}->{l[a]}"
@@ -14,5 +15,6 @@ def letters(l):
     return list
 
 print(letters("hello"))
+
 
 ```
