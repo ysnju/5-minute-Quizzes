@@ -13,3 +13,4 @@ def BigNeighbour(x:list):
     return result
 print(BigNeighbour((1,2,3,5,8,9)))
 ```
+<img width="995" alt="Screenshot 2021-11-11 at 19 10 22" src="https://user-images.githubusercontent.com/89366347/141279819-13a5bca2-9a83-4912-9904-95c1d0e7b2b1.png">
