@@ -14,3 +14,5 @@ def BigNeighbour(x:list):
 print(BigNeighbour((1,2,3,5,8,9)))
 ```
 <img width="995" alt="Screenshot 2021-11-11 at 19 10 22" src="https://user-images.githubusercontent.com/89366347/141279819-13a5bca2-9a83-4912-9904-95c1d0e7b2b1.png">
+Flowchart
+![IMG_0748](https://user-images.githubusercontent.com/89366347/141288591-52bc2602-b42d-479f-b3f8-665308868e8a.jpg)
