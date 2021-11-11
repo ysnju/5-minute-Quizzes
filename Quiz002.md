@@ -30,3 +30,6 @@ print(difference(10,5,5))
 
 
 ```
+<img width="995" alt="Screenshot 2021-11-11 at 18 39 10" src="https://user-images.githubusercontent.com/89366347/141275089-185bb10a-f594-48a5-b830-f0f44a916a7b.png">
+
+
