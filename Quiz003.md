@@ -24,3 +24,4 @@ def rangePatternN(n):
 
 print(rangePatternN(5))
 ```
+<img width="995" alt="Screenshot 2021-11-11 at 18 39 56" src="https://user-images.githubusercontent.com/89366347/141275190-6040813e-b194-4aab-9144-438ee07fa530.png">
