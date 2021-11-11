@@ -22,3 +22,5 @@ def multiplication (n:int):
 test = multiplication(2)
 print(test)
 ```
+
+<img width="995" alt="Screenshot 2021-11-11 at 18 41 37" src="https://user-images.githubusercontent.com/89366347/141275444-0b6b036c-dcf8-4dde-8e51-9486be6e962f.png">
