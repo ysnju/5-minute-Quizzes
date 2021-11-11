@@ -34,3 +34,5 @@ def perfectN(n:int):
 print(perfectN(6))
 
 ```
+<img width="995" alt="Screenshot 2021-11-11 at 18 40 57" src="https://user-images.githubusercontent.com/89366347/141275354-430768f5-bfdc-47cc-82cd-00e38c3edd40.png">
+
