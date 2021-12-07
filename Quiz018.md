@@ -23,4 +23,7 @@ def sum67(input:list):
     return sum
 
 print(sum67([1,2,3,6,99,7,4]))
-```
+````
+<img width="1007" alt="Screenshot 2021-12-07 at 17 55 33" src="https://user-images.githubusercontent.com/89366347/144997645-789b00f3-c353-4978-a98d-3667f0acb77c.png">
+
+![IMG_0890](https://user-images.githubusercontent.com/89366347/144997454-38a6fa2f-70e3-436c-972c-56d017c06b3d.jpg)
