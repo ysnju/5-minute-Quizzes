@@ -11,3 +11,5 @@ def binaryreader(n):
 print(binaryreader("100!110!001"))
 ```
 <img width="1007" alt="Screenshot 2021-12-06 at 9 35 27" src="https://user-images.githubusercontent.com/89366347/144770602-d0137b05-1f9d-435d-a3d3-c9e33cdb55ef.png">
+
+![IMG_0970](https://user-images.githubusercontent.com/89366347/145704251-0de92622-2e96-432c-af94-5d479c77e7b7.jpg)
