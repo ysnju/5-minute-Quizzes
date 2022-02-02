@@ -1,1 +1,2 @@
-<img width="798" alt="Screenshot 2022-01-24 at 21 31 02" src="https://user-images.githubusercontent.com/89366347/150783304-7555679e-3e8b-47ad-85d3-4e81dba96e2c.png">
+
+<img width="996" alt="Screenshot 2022-02-02 at 19 24 24" src="https://user-images.githubusercontent.com/89366347/152136060-4715db5f-76e4-4190-b71c-7d6ab3d88407.png">
