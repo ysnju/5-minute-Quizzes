@@ -36,5 +36,4 @@ print(group[6])
 
 ```
 
-<img width="2034" alt="Screenshot 2022-03-31 at 18 38 32" src="https://user-images.githubusercontent.com/89366347/161025685-887dac71-e75e-4684-bc31-5edbb2ebf6de.png">
-
+<img width="2034" alt="Screenshot 2022-03-31 at 18 43 06" src="https://user-images.githubusercontent.com/89366347/161026600-19f6583a-013b-4211-bd22-902c0f374985.png">
